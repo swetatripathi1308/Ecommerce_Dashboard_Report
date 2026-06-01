@@ -1,6 +1,4 @@
-# Ecommerce_Dashboard_Report
 # Ecommerce Dashboard Project
-
 ## Description
 
 The Ecommerce Dashboard Project is an interactive data analytics solution built in Microsoft Excel to analyze and visualize ecommerce sales performance for the year 2022. The dashboard transforms raw sales data into meaningful business insights through dynamic charts, pivot tables, and slicers.
